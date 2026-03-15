@@ -5,6 +5,7 @@ This repository tracks dashboards, research systems, and development progress ac
 Projects and monitoring dashboards maintained here:
 
 1. Azalyst ETF Intelligence Dashboard  
-   https://github.com/gitdhirajsv/Azalyst-ETF-Intelligence/blob/main/dashboard.html
+Live macro intelligence system that scans global news, classifies sector signals, and maps them to ETF opportunities while maintaining a live paper-trading portfolio.
 
-Additional research dashboards and system outputs will be added as new Azalyst modules are developed.
+Live dashboard:  
+https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/dashboard.html
