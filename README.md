@@ -14,7 +14,6 @@ Automated macro intelligence system that scans global news, classifies sector si
 
 > Auto-updates every 30 minutes via GitHub Actions.
 
-[![Live Dashboard](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/docs/dashboard_live.png)](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)
 
 ---
 
