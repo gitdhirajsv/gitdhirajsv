@@ -10,10 +10,10 @@ Projects and monitoring dashboards maintained here:
 
 Automated macro intelligence system that scans global news, classifies sector signals, and maps them to ETF opportunities while maintaining a live paper-trading portfolio.
 
-Live Dashboard  
+**Live Dashboard**  
 https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/dashboard.html
 
-Repository  
+**Repository**  
 https://github.com/gitdhirajsv/Azalyst-ETF-Intelligence
 
 ---
@@ -22,7 +22,7 @@ https://github.com/gitdhirajsv/Azalyst-ETF-Intelligence
 
 Live monitoring output generated from the Azalyst ETF Intelligence system.
 
-https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/dashboard.html
+[![Azalyst Dashboard](https://raw.githubusercontent.com/gitdhirajsv/Azalyst-ETF-Intelligence/main/docs/dashboard_12pct.png)](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/dashboard.html)
 
 ---
 
