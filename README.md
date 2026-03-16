@@ -1,5 +1,3 @@
-Dhiraj Suryavanshi, CWM®
-Business Analyst | Python | Ex-Amazon
 Building open-source financial intelligence systems through experimentation and vibe coding.
 
 ### Azalyst ETF Intelligence Dashboard
