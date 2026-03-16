@@ -1,20 +1,8 @@
-# Azalyst Quant Research Projects
+Dhiraj Suryavanshi, CWM®
+Business Analyst | Python | Ex-Amazon
 
-This repository tracks dashboards, research systems, and development progress across the Azalyst quantitative research environment.
+Building open-source financial intelligence systems through experimentation and vibe coding.
 
-Projects and monitoring dashboards maintained here:
-
----
-
-## Azalyst ETF Intelligence Dashboard
-
-Automated macro intelligence system that scans global news, classifies sector signals, and maps them to ETF opportunities while maintaining a live paper-trading portfolio.
-
-### 🔴 [Open Live Dashboard →](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)
-
-> Auto-updates every 30 minutes via GitHub Actions.
-
-
----
-
-Additional research dashboards and quantitative systems will be added as new Azalyst modules are developed.
+**Azalyst ETF Intelligence**
+Macro dashboard that converts global news signals into ETF insights.
+🔴 [Open Live Dashboard →](https://gitdhirajsv.github.io/Azalyst-ETF-Intellige nce/)
