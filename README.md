@@ -17,14 +17,14 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 ###  Live Systems — always on, autonomous execution
 
 [![ETF Intelligence](https://img.shields.io/badge/Azalyst_ETF_Intelligence-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)
-[![Alpha Scanner](https://img.shields.io/badge/Azalyst_Alpha_Scanner-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://azalyst.github.io/Azalyst-Alpha-Scanner/dashboard.html)
+[![CEX Intel](https://img.shields.io/badge/Azalyst_CEX_Intel-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://azalyst.github.io/Azalyst-CEX-Intel/dashboard.html)
 
 </div>
 
 | Project | What it does |
 |---------|-------------|
 | **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Global macro engine · NLP sector classifier · Price-action rotation scanner · Autonomous Qwen-480B self-optimization loop · Discord alerts · Live paper trading. |
-| **[Azalyst Alpha Scanner](https://azalyst.github.io/Azalyst-Alpha-Scanner/dashboard.html)** | 9-chain on-chain platform · DeepSeek-V4-Pro / Qwen 2.5-Coder ReAct agent · LightGBM on PrefixSpan wallet-sequence patterns · Smart-money & Whale tracking · Paper Trader · 15-min cadence. |
+| **[Azalyst CEX Intel](https://azalyst.github.io/Azalyst-CEX-Intel/dashboard.html)** | Supply-control manipulation scanner · LAB / RAVE / SIREN / GUA playbook detector · Float compression · Bitget hot-wallet inflows · Operator wallet clusters · CoinGecko + GoPlus + Etherscan · Hourly scan · Zero paid dependencies. |
 
 ---
 
