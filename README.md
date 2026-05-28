@@ -36,7 +36,9 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdhirajsv&layout=compact&theme=dark&bg_color=000000&title_color=ff6600&text_color=ffffff&border_color=1a1a1a)
+**Most Used Languages**
+
+![Python](https://img.shields.io/badge/Python-62.6%25-ff6600?style=flat-square&logo=python&logoColor=fff&labelColor=000) ![Jupyter](https://img.shields.io/badge/Jupyter-25.3%25-ff8800?style=flat-square&logo=jupyter&logoColor=fff&labelColor=000) ![HTML5](https://img.shields.io/badge/HTML5-8.5%25-ffaa00?style=flat-square&logo=html5&logoColor=fff&labelColor=000) ![JavaScript](https://img.shields.io/badge/JavaScript-1.9%25-cc7700?style=flat-square&logo=javascript&logoColor=fff&labelColor=000) ![Batchfile](https://img.shields.io/badge/Batchfile-1.7%25-996600?style=flat-square&logo=gnubash&logoColor=fff&labelColor=000)
 
 </div>
 
