@@ -17,7 +17,7 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 ###  Live Systems — always on, autonomous execution
 
 [![ETF Intelligence](https://img.shields.io/badge/Azalyst_ETF_Intelligence-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)
-[![8200 Radar](https://img.shields.io/badge/Azalyst_8200_Radar-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-8200-Radar/)
+[![US Stocks Intelligence](https://img.shields.io/badge/Azalyst_US_Stocks_Intelligence-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-US-Stocks-Intelligence/)
 [![FundingPips Signals](https://img.shields.io/badge/Azalyst_FundingPips_Signals-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://azalyst.github.io/Azalyst-FundingPips-Signals/)
 
 </div>
@@ -25,7 +25,7 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 | Project | What it does |
 |---------|-------------|
 | **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Global macro engine · NLP sector classifier · Price-action rotation scanner · Autonomous Qwen-480B self-optimization loop · Discord alerts · Live paper trading. |
-| **[Azalyst 8200 Radar](https://gitdhirajsv.github.io/Azalyst-8200-Radar/)** | Early/mid-stage startup radar across AI / Cybersecurity / Defense Tech / Deep Tech · Israeli-connection signal detection (Unit 8200 / Technion / Tel Aviv / Israeli VCs) · Weighted 0-100 composite scoring · SQLite dedup · Discord alerts · Daily autonomous GitHub Actions run. |
+| **[Azalyst US Stocks Intelligence](https://gitdhirajsv.github.io/Azalyst-US-Stocks-Intelligence/)** | Long-only multi-cap US-equity swing engine · trend-leader panel (Minervini / O'Neil / Weinstein / Graham / Buffett / Lynch / Piotroski / Greenblatt / Jhunjhunwala) + liquid momentum-gainer sleeve · buy-the-dip & breakout setups · risk-defined ATR stops & cap-tier sizing · Discord BUY / SELL tags · regime-gated · backtested vs SPY · 3x/day autonomous GitHub Actions run. |
 | **[Azalyst FundingPips Signals](https://azalyst.github.io/Azalyst-FundingPips-Signals/)** | Six-strategy prop-firm signal engine (RSI · 5 EMA · Ethereum Blueprint · SMT Divergence · JadeCap Liquidity · QUANT-X) · session-gated across FX / metals / indices / crypto · FundingPips risk gate ($5k daily / $10k max, 1% sizing that cannot breach) · paper-traded track record · Discord alerts · 15-min autonomous GitHub Actions cron · live Bloomberg-style dashboard. |
 
 ---
