@@ -23,7 +23,7 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 
 | Project | What it does |
 |---------|-------------|
-| **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Global macro engine · NLP sector classifier · Price-action rotation scanner · Autonomous Qwen-480B self-optimization loop · Discord alerts · Live paper trading. |
+| **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Seven-engine signal-fusion macro engine (cross-sectional rank · ETF flow · dealer GEX · options tape · holdings-weighted rotation · macro fit · news) · regime-conditional factor weighting (VIX-tercile classifier + RISK_OFF absolute-momentum gate) · price-led discovery with news as secondary confirmation · institutional execution modeling (half-spread + √-impact slippage, tiered fees incl. India STT / GST, liquidity caps) · correlation-cluster dedup · SQLite paper trader with equity curve · Discord alerts · 30-min autonomous GitHub Actions cron · live regime-aware dashboard. |
 | **[Azalyst FundingPips Signals](https://azalyst.github.io/Azalyst-FundingPips-Signals/)** | Six-strategy prop-firm engine (RSI · 5 EMA · Ethereum Blueprint · SMT Divergence · JadeCap Liquidity · QUANT-X) where each strategy runs its **own isolated $100k FundingPips challenge** — independent balance, daily/max-loss budget & PASSED / FAILED / ACTIVE status, so a losing playbook fails on its own book · session-gated across FX / metals / indices / crypto · 1% sizing that cannot breach ($5k daily / $10k max, +8% pass target) · Discord alerts · 15-min autonomous GitHub Actions cron · live per-strategy Bloomberg-style dashboard. |
 
 ---
