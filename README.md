@@ -24,7 +24,7 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 | Project | What it does |
 |---------|-------------|
 | **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Seven-engine signal-fusion macro engine (cross-sectional rank · ETF flow · dealer GEX · options tape · holdings-weighted rotation · macro fit · news) · regime-conditional factor weighting (VIX-tercile classifier + RISK_OFF absolute-momentum gate) · price-led discovery with news as secondary confirmation · institutional execution modeling (half-spread + √-impact slippage, tiered fees incl. India STT / GST, liquidity caps) · correlation-cluster dedup · SQLite paper trader with equity curve · Discord alerts · 30-min autonomous GitHub Actions cron · live regime-aware dashboard. |
-| **[Azalyst FundingPips Signals](https://azalyst.github.io/Azalyst-FundingPips-Signals/)** | **Order Block (OB) strategy** running a live $100k FundingPips challenge — ICT/SMC order block detection on 4H with 15M entries · **Phase 1 (+8%) → Phase 2 (+5%)** with real-time day counters on the dashboard · 1% risk per trade under $5k daily / $10k max loss limits · Discord alerts · 15-min autonomous GitHub Actions cron · tracks exactly how many days to pass each phase. |
+| **[Azalyst FundingPips Signals](https://azalyst.github.io/Azalyst-FundingPips-Signals/)** | **7-strategy prop-firm engine** (RSI · EMA5 · Ethereum Blueprint · SMT Divergence · JadeCap · QUANT-X · **OB**) — each runs its own $100k FundingPips challenge with **Phase 1 (+8%) → Phase 2 (+5%)** tracking and real-time day counters · 1% risk under $5k daily / $10k max loss · Discord alerts · 15-min autonomous GitHub Actions cron · live dashboard. |
 
 ---
 
