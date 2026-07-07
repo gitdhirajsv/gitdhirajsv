@@ -18,7 +18,6 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 
 [![ETF Intelligence](https://img.shields.io/badge/Azalyst_ETF_Intelligence-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)
 [![Stock Intelligence](https://img.shields.io/badge/Azalyst_Stock_Intelligence-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://gitdhirajsv.github.io/Azalyst-Stock-Intelligence/)
-[![Montecarlo Quant](https://img.shields.io/badge/Azalyst_Montecarlo_Quant-LIVE-00c864?style=for-the-badge&labelColor=000000)](https://azalyst.github.io/Azalyst-Montecarlo-Quant/)
 
 </div>
 
@@ -26,7 +25,6 @@ Finance enthusiast · Chartered Wealth Manager · obsessed with quant research, 
 |---------|-------------|
 | **[Azalyst ETF Intelligence](https://gitdhirajsv.github.io/Azalyst-ETF-Intelligence/)** | Seven-engine signal-fusion macro engine (cross-sectional rank · ETF flow · dealer GEX · options tape · holdings-weighted rotation · macro fit · news) · regime-conditional factor weighting (VIX-tercile classifier + RISK_OFF absolute-momentum gate) · price-led discovery with news as secondary confirmation · institutional execution modeling (half-spread + √-impact slippage, tiered fees incl. India STT / GST, liquidity caps) · correlation-cluster dedup · SQLite paper trader with equity curve · Discord alerts · 30-min autonomous GitHub Actions cron · live regime-aware dashboard. |
 | **[Azalyst Stock Intelligence](https://gitdhirajsv.github.io/Azalyst-Stock-Intelligence/)** | Global stock paper trading system using the J Law method · autonomous universe generation via yfinance (US, HK, EU, JP markets) · Stage 2 filter & multi-indicator stock screener · bull/bear market regime detection · volume pattern and bottom detector integration · SQLite paper trader with tracked equity curve · static GitHub Pages dashboard · autonomous GitHub Actions pipeline. |
-| **[Azalyst Montecarlo Quant](https://azalyst.github.io/Azalyst-Montecarlo-Quant/)** | **Fast-pass prop-firm fleet** — one Monte-Carlo-validated gold strategy (reverse-engineered from **301,472 real prop-firm trades**; momentum-breakout **+ scale-in** on XAU/USD H1, the only instrument whose edge survived a held-out out-of-sample test, PF 1.46) run at **three aggression levels live in parallel — MED 1.0% · AGGRESSIVE 1.5% · MAX 2.25%** — each a $100k FundingPips 2-step account (**Phase 1 +8% → Phase 2 +5%**, 5% daily / 10% static) that **auto-resets on a bust** and races to get funded fastest. Honest **~40% / attempt** (a trend-rider, not a sure thing). Live race dashboard (regime · equity race · fleet ledger) · Discord alerts · twice-hourly autonomous GitHub Actions cron. |
 
 ---
 
